@@ -5,7 +5,7 @@
   src="https://raw.githubusercontent.com/quartz-vmm/.github/main/logo.png"
 />
 
-# Quartz | Core package
+# Quartz | Core
 
 ![License](https://img.shields.io/github/license/quartz-vmm/core?style=plastic&color=blue)
 ![Contributing](https://img.shields.io/badge/contributing-Closed-blue?style=plastic)

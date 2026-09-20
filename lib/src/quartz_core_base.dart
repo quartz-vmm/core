@@ -1,0 +1,2 @@
+/// QuartzCore class.
+class QuartzCore;

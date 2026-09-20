@@ -1,4 +1,4 @@
-/// Core package for sharing Quartz code.
+/// Core package for sharing code.
 library;
 
 export 'src/quartz_core_base.dart';
